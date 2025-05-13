@@ -1,5 +1,7 @@
 ## Youtube Channel Verification
 
+### For steps 1-3 use https://172.236.19.60.nip.io/channels/unverified instead
+
 This is a technical manual on the process of verifying the channels signed up for YouTube Partnership Program
 
 **ℹ️ Download Postman App for windows or mac**
